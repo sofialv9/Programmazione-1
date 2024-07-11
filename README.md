@@ -1,1 +1,1 @@
-Corso di Programmazione 1 - UNICT 10-01/2023-2024
+Corso di Programmazione 1 in C - UNICT 10-01/2023-2024
